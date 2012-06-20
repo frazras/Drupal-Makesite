@@ -1,0 +1,2 @@
+Drupal Makesite
+This is a bash script that allows users to create a Drupal site in one single step. All you need to do is supply the credentials and viola you have a brand new site, no boring site setup wizard to endure.
